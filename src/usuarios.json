@@ -1,0 +1,79 @@
+[
+  {
+    "id": 0,
+    "nombre": "Lucas",
+    "edad": 18,
+    "premiun": false,
+    "colombiano": true
+  },
+  {
+    "id": 1,
+    "nombre": "Samanta",
+    "edad": 22,
+    "premiun": true,
+    "colombiano": true
+  },
+  {
+    "id": 2,
+    "nombre": "Martin",
+    "edad": 11,
+    "premiun": false,
+    "colombiano": false
+  },
+  {
+    "id": 3,
+    "nombre": "Tian",
+    "edad": 10,
+    "premiun": true,
+    "colombiano": false
+  },
+  {
+    "id": 4,
+    "nombre": "Tobias",
+    "edad": 33,
+    "premiun": true,
+    "colombiano": true
+  },
+  {
+    "id": 5,
+    "nombre": "John",
+    "edad": 17,
+    "premiun": true,
+    "colombiano": false
+  },
+  {
+    "id": 6,
+    "nombre": "Zack",
+    "edad": 18,
+    "premiun": false,
+    "colombiano": false
+  },
+  {
+    "id": 7,
+    "nombre": "Sonia",
+    "edad": 44,
+    "premiun": true,
+    "colombiano": false
+  },
+  {
+    "id": 8,
+    "nombre": "Toño",
+    "edad": 41,
+    "premiun": true,
+    "colombiano": true
+  },
+  {
+    "id": 9,
+    "nombre": "Naruto",
+    "edad": 16,
+    "premiun": false,
+    "colombiano": false
+  },
+  {
+    "id": 10,
+    "nombre": "Luz",
+    "edad": 22,
+    "premiun": true,
+    "colombiano": true
+  }
+]
